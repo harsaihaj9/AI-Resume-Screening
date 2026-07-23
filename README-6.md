@@ -49,10 +49,7 @@ streamlit run resume_screener.py
 ## Notes
 
 - Resumes and embeddings are stored in memory only; nothing persists after the app restarts.
-- Uploaded PDFs are saved locally to `resume_files/` — keep this git-ignored since resumes contain personal data.
 - To screen a new batch of candidates, restart the app.
 - This is a prototype; a production version would need persistent storage, authentication, and data-retention controls.
 
-## License
 
-MIT
