@@ -8,12 +8,12 @@ An AI-powered recruiting assistant that reads candidate resumes, compares them a
 
 ##  Features
 
-- 🔍 **Automatic shortlist generation** — one click ranks every candidate in a Markdown comparison table
-- 💬 **Ask anything** — "Who has 5+ years of Python?" / "Does anyone have AWS certifications?"
-- 📊 **Explainable scoring** — every candidate gets a match score, strengths, and honest gaps — no black-box answers
-- 🆓 **Free to run** — local embeddings (no OpenAI billing) + Groq's free-tier LLM
-- 🔒 **Private by default** — resumes and embeddings stay on your machine, nothing is sent anywhere except the LLM API call itself
-- 🧠 **Conversation memory** — follow-up questions understand prior context in the same session
+-  **Automatic shortlist generation** — one click ranks every candidate in a Markdown comparison table
+-  **Ask anything** — "Who has 5+ years of Python?" / "Does anyone have AWS certifications?"
+-  **Explainable scoring** — every candidate gets a match score, strengths, and honest gaps — no black-box answers
+-  **Free to run** — local embeddings (no OpenAI billing) + Groq's free-tier LLM
+-  **Private by default** — resumes and embeddings stay on your machine, nothing is sent anywhere except the LLM API call itself
+-  **Conversation memory** — follow-up questions understand prior context in the same session
 
 ---
 
